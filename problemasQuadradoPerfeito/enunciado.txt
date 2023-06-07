@@ -1,0 +1,6 @@
+Problema do quadrado perfeito
+Um número inteiro positivo N é um quadrado perfeito se existe um número K tal que
+K*K=N. 
+Faça um programa que receberá uma quantidade indefinida de números inteiros positivos
+J (-10000<=J<=10000) até que J seja zero. A saída do programa deverá ser a quantidade
+de quadrados perfeitos informados.
